@@ -91,3 +91,31 @@
 [2026-05-02T21:21:41.662Z] 5:21:41 PM [vite] (client) page reload index.html
 [2026-05-02T21:23:00.555Z] 5:23:00 PM [vite] (client) page reload index.html
 [2026-05-02T21:23:00.557Z] 5:23:00 PM [vite] (client) page reload index.html
+[2026-05-02T21:23:59.431Z] Dev server process group stopped
+[2026-05-02T21:23:59.433Z] ELIFECYCLE  Command failed.
+[2026-05-02T21:23:59.447Z] Dev server exited with code -15
+[2026-05-02T21:24:02.442Z] Starting dev server with command: pnpm run dev
+[2026-05-02T21:24:02.999Z] 
+[2026-05-02T21:24:03.000Z] > mongodb_crud_demo@1.0.0 dev /home/ubuntu/mongodb_crud_demo
+[2026-05-02T21:24:03.000Z] > vite --host
+[2026-05-02T21:24:03.001Z] 
+[2026-05-02T21:24:03.328Z] 
+[2026-05-02T21:24:03.329Z] VITE v7.1.9  ready in 292 ms
+[2026-05-02T21:24:03.329Z] 
+[2026-05-02T21:24:03.330Z] ➜  Local:   http://localhost:3000/
+[2026-05-02T21:24:03.331Z] ➜  Network: http://169.254.0.21:3000/
+[2026-05-02T21:24:04.287Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-05-02T21:24:12.565Z] Dev server process group stopped
+[2026-05-02T21:24:12.567Z] ELIFECYCLE  Command failed.
+[2026-05-02T21:24:12.583Z] Dev server exited with code -15
+[2026-05-02T21:24:15.593Z] Starting dev server with command: pnpm run dev
+[2026-05-02T21:24:16.184Z] 
+[2026-05-02T21:24:16.185Z] > mongodb_crud_demo@1.0.0 dev /home/ubuntu/mongodb_crud_demo
+[2026-05-02T21:24:16.185Z] > vite --host
+[2026-05-02T21:24:16.185Z] 
+[2026-05-02T21:24:16.490Z] 
+[2026-05-02T21:24:16.491Z] VITE v7.1.9  ready in 271 ms
+[2026-05-02T21:24:16.491Z] 
+[2026-05-02T21:24:16.492Z] ➜  Local:   http://localhost:3000/
+[2026-05-02T21:24:16.492Z] ➜  Network: http://169.254.0.21:3000/
+[2026-05-02T21:24:17.873Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
